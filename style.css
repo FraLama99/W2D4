@@ -99,6 +99,9 @@ main {
   height: auto;
   padding-left: 40px;
   padding-right: 24px;
+  position: sticky;
+  top: 0;
+  bottom: 0;
 }
 .topleft-main {
   display: flex;
